@@ -2,14 +2,14 @@
 
 This folder contains the following data files:
 
-- [`customers.csv`](customers.csv): contains a list of customers
-- [`products.csv`](products.csv): contains a list of products
-- [`suppliers.csv`](suppliers.csv): contains a list of suppliers
-- [`inventory.csv`](inventory.csv): contains inventory information
-- [`orders.csv`](orders.csv): contains a list of orders
-- [`order_items.csv`](order_items.csv): contains information about items in each order
-- [`shipping.csv`](shipping.csv): contains information about shipping
-- [`returns.csv`](returns.csv): contains information about returns
+- [`Customers.csv`](Customers.csv): contains a list of customers
+- [`Products.csv`](Products.csv): contains a list of products
+- [`Suppliers.csv`](Suppliers.csv): contains a list of suppliers
+- [`Inventory.csv`](Inventory.csv): contains inventory information
+- [`Orders.csv`](Orders.csv): contains a list of orders
+- [`Order_items.csv`](Order_items.csv): contains information about items in each order
+- [`Shipping.csv`](Shipping.csv): contains information about shipping
+- [`Returns.csv`](Returns.csv): contains information about returns
 
 Each file has its own header row and contains relevant data. 
 
