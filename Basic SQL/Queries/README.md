@@ -2,7 +2,7 @@
 
 This folder contains a collection of SQL queries that demonstrate various database operations using the sample database provided. The queries are organized by type of operation:
 
-- [selecting-data.sql](queries/selecting-data.sql): demonstrates how to select data from a table using the SELECT statement.
+- [selecting-data.sql](selecting-data.sql): demonstrates how to select data from a table using the SELECT statement.
 - [filtering-data.sql](queries/filtering-data.sql): demonstrates how to filter data using the WHERE clause.
 - [sorting-data.sql](queries/sorting-data.sql): demonstrates how to sort data using the ORDER BY clause.
 - [inserting-data.sql](queries/inserting-data.sql): demonstrates how to insert data into a table using the INSERT statement.
