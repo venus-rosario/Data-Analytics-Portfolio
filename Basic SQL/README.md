@@ -17,14 +17,14 @@ The [`Queries`](./Queries/) folder contains several SQL files that demonstrate h
 
 The [`Data`](./data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
 
-- [`customers.csv`](./Data/Customers.csv): contains a list of customers
-- [`products.csv`](./Data/Products.csv): contains a list of products
-- [`suppliers.csv`](./Data/Suppliers.csv): contains a list of suppliers
-- [`inventory.csv`](./Data/Inventory.csv): contains inventory information
-- [`orders.csv`](./Data/Orders.csv): contains a list of orders
-- [`order_items.csv`](./Data/Order_items.csv): contains information about items in each order
-- [`shipping.csv`](./Data/Shipping.csv): contains information about shipping
-- [`returns.csv`](./Data/Returns.csv): contains information about returns
+- [`Customers.csv`](./Data/Customers.csv): contains a list of customers
+- [`Products.csv`](./Data/Products.csv): contains a list of products
+- [`Suppliers.csv`](./Data/Suppliers.csv): contains a list of suppliers
+- [`Inventory.csv`](./Data/Inventory.csv): contains inventory information
+- [`Orders.csv`](./Data/Orders.csv): contains a list of orders
+- [`Order_items.csv`](./Data/Order_items.csv): contains information about items in each order
+- [`Shipping.csv`](./Data/Shipping.csv): contains information about shipping
+- [`Returns.csv`](./Data/Returns.csv): contains information about returns
 
 ## Contributing
 
