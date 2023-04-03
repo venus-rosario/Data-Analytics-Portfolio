@@ -1,0 +1,11 @@
+id,order_id,ship_date,status
+1,1,2022-01-01,shipped
+2,2,2022-01-02,shipped
+3,3,2022-01-03,shipped
+4,4,2022-01-04,shipped
+5,5,2022-01-05,shipped
+6,6,2022-01-06,shipped
+7,7,2022-01-07,shipped
+8,8,2022-01-08,shipped
+9,9,2022-01-09,shipped
+10,10,2022-01-10,shipped

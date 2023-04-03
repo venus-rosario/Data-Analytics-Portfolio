@@ -1,0 +1,6 @@
+id,order_id,return_date,reason
+1,1,2022-01-10,defective product
+2,2,2022-01-11,wrong item
+3,4,2022-01-12,shipping damage
+4,6,2022-01-13,change of mind
+5,8,2022-01-14,defective product

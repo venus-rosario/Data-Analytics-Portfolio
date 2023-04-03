@@ -1,0 +1,4 @@
+id,name,email,phone,address,city,state,postal_code
+1,Supplier A,suppliera@example.com,(123) 456-7890,123 Main St,Anytown,CA,12345
+2,Supplier B,supplierb@example.com,(234) 567-8901,456 Maple Ave,Smallville,OH,45678
+3,Supplier C,supplierc@example.com,(345) 678-9012,789 Oak St,Bigtown,NY,78901
