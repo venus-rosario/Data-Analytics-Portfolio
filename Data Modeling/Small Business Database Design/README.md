@@ -10,7 +10,7 @@ This database design is meant for a small business that sells products and handl
 
 The Entity-Relationship (ER) diagram for the Small Business Database Design project is shown below:
 
-![ER Diagram](images/er-diagram.png "ER Diagram")
+![ER Diagram](images/small-business-er-diagram.png "ER Diagram")
 
 The diagram shows the relationships between the tables in the database schema. The Customers, Products, Suppliers, Inventory, Orders, and Returns tables are all related to each other in various ways. The diagram can be used to gain a better understanding of how the data in the database is structured and how the tables relate to each other.
 
