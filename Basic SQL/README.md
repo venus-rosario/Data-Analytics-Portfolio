@@ -17,6 +17,15 @@ The [`queries`](./Queries/) folder contains several SQL files that demonstrate h
 
 The [`data`](./Data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
 
+- [`customers.csv`](customers.csv): contains a list of customers
+- [`products.csv`](products.csv): contains a list of products
+- [`suppliers.csv`](suppliers.csv): contains a list of suppliers
+- [`inventory.csv`](inventory.csv): contains inventory information
+- [`orders.csv`](orders.csv): contains a list of orders
+- [`order_items.csv`](order_items.csv): contains information about items in each order
+- [`shipping.csv`](shipping.csv): contains information about shipping
+- [`returns.csv`](returns.csv): contains information about returns
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements for the sample SQL queries or data, feel free to create a pull request or open an issue.
