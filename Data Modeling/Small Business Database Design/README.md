@@ -6,14 +6,6 @@ This project is a database schema design for a small business. The schema is des
 
 This database design is meant for a small business that sells products and handles orders and returns. It includes tables for customers, products, suppliers, inventory, orders, order items, shipping, and returns. Each table has columns that are carefully chosen to optimize performance and accuracy. The database can be easily scaled to handle large amounts of data.
 
-## ER Diagram
-
-The Entity-Relationship (ER) diagram for the Small Business Database Design project is shown below:
-
-![ER Diagram](images/er-diagram.png "ER Diagram")
-
-The diagram shows the relationships between the tables in the database schema. The Customers, Products, Suppliers, Inventory, Orders, and Returns tables are all related to each other in various ways. The diagram can be used to gain a better understanding of how the data in the database is structured and how the tables relate to each other.
-
 ## Tables
 
 ### Customers
@@ -126,6 +118,14 @@ The SQL files for creating the tables can be found in the `sql/` directory. Each
 - [`order_items.sql`](./sql/order_items.sql): SQL code for creating the Order_Items table.
 - [`shipping.sql`](./sql/shipping.sql): SQL code for creating the Shipping table.
 - [`returns.sql`](./sql/returns.sql): SQL code for creating the Returns table.
+
+## ER Diagram
+
+The Entity-Relationship (ER) diagram for the Small Business Database Design project is shown below:
+
+![ER Diagram](images/er-diagram.png "ER Diagram")
+
+The diagram shows the relationships between the tables in the database schema. The Customers, Products, Suppliers, Inventory, Orders, and Returns tables are all related to each other in various ways. The diagram can be used to gain a better understanding of how the data in the database is structured and how the tables relate to each other.
 
 ## Usage
 
