@@ -2,12 +2,12 @@
 
 This folder contains a collection of SQL queries that demonstrate various database operations using the sample database provided. The queries are organized by type of operation:
 
-- [selecting_data.sql](selecting_data.sql): demonstrates how to select data from a table using the SELECT statement.
-- [filtering_data.sql](queries/filtering_data.sql): demonstrates how to filter data using the WHERE clause.
-- [sorting_data.sql](queries/sorting_data.sql): demonstrates how to sort data using the ORDER BY clause.
-- [inserting_data.sql](queries/inserting_data.sql): demonstrates how to insert data into a table using the INSERT statement.
-- [updating_data.sql](queries/updating_data.sql): demonstrates how to update data in a table using the UPDATE statement.
-- [deleting_data.sql](queries/deleting_data.sql): demonstrates how to delete data from a table using the DELETE statement.
+- [`selecting_data.sql`](selecting_data.sql): demonstrates how to select data from a table using the SELECT statement.
+- [`filtering_data.sql`](queries/filtering_data.sql): demonstrates how to filter data using the WHERE clause.
+- [`sorting_data.sql`](queries/sorting_data.sql): demonstrates how to sort data using the ORDER BY clause.
+- [`inserting_data.sql`](queries/inserting_data.sql): demonstrates how to insert data into a table using the INSERT statement.
+- [`updating_data.sql`](queries/updating_data.sql): demonstrates how to update data in a table using the UPDATE statement.
+- [`deleting_data.sql`](queries/deleting_data.sql): demonstrates how to delete data from a table using the DELETE statement.
 
 ## Getting Started
 
