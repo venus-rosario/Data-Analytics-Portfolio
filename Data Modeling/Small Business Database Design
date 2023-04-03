@@ -84,39 +84,4 @@ This table contains information about the orders placed by customers. The column
 
 ### Shipping
 
-| Column        | Data Type | Description                             |
-|---------------|-----------|-----------------------------------------|
-| id            | INTEGER   | Unique shipping ID                       |
-| order_id      | INTEGER   | Foreign key referencing Orders table    |
-| ship_date     | TEXT      | Shipping date in YYYY-MM-DD format         |
-| status        | TEXT      | Shipping status                            |
-
-### Returns
-
-| Column        | Data Type | Description                             |
-|---------------|-----------|-----------------------------------------|
-| id            | INTEGER   | Unique return ID                           |
-| order_id      | INTEGER   | Foreign key referencing Orders table    |
-| return_date   | TEXT      | Return date in YYYY-MM-DD format           |
-| reason        | TEXT      | Reason for return                         |
-
-## SQL Files
-
-The SQL files for creating the tables can be found in the `sql/` directory. Each file contains the SQL code for creating the respective table. The files are named after the table they create.
-
-- `customers.sql`: SQL code for creating the Customers table.
-- `products.sql`: SQL code for creating the Products table.
-- `suppliers.sql`: SQL code for creating the Suppliers table.
-- `inventory.sql`: SQL code for creating the Inventory table.
-- `orders.sql`: SQL code for creating the Orders table.
-- `order_items.sql`: SQL code for creating the Order_Items table.
-- `shipping.sql`: SQL code for creating the Shipping table.
-- `returns.sql`: SQL code for creating the Returns table.
-
-## Usage
-
-To use the database schema, simply execute the SQL code for creating the tables in your database management system. Then, you can populate the tables with your data and start querying the database.
-
-## Contributing
-
-If you would like to contribute to the project, feel free to fork the repository and make your changes. Once you have made your changes, submit a pull request and your changes will be reviewed.
+| Column        | Data
