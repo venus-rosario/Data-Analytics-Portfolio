@@ -4,7 +4,7 @@ This repository contains sample SQL queries and data for learning and practicing
 
 ## Queries
 
-The [`queries`](./Queries/) folder contains several SQL files that demonstrate how to perform basic SQL operations such as selecting, filtering, sorting, inserting, updating, and deleting data from a table. Each file contains a brief description of the query it demonstrates.
+The [`queries`](./queries/) folder contains several SQL files that demonstrate how to perform basic SQL operations such as selecting, filtering, sorting, inserting, updating, and deleting data from a table. Each file contains a brief description of the query it demonstrates.
 
 - [`select_data.sql`](./queries/select_data.sql): Demonstrates how to select data from a table using the SELECT statement.
 - [`filter_data.sql`](./queries/filter_data.sql): Demonstrates how to filter data using the WHERE clause.
@@ -15,7 +15,7 @@ The [`queries`](./Queries/) folder contains several SQL files that demonstrate h
 
 ## Data
 
-The [`data`](./Data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
+The [`data`](./data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
 
 - [`customers.csv`](customers.csv): contains a list of customers
 - [`products.csv`](products.csv): contains a list of products
