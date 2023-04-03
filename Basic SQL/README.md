@@ -1,34 +1,22 @@
 # Basic SQL
 
-This folder contains projects focused on the fundamentals of SQL. These projects cover basic SQL queries, such as SELECT, INSERT, UPDATE, and DELETE statements.
+This repository contains sample SQL queries and data for learning and practicing SQL. 
 
-## Projects
+## Queries
 
-- **[Selecting Data](/Basic%20SQL/selecting-data.sql)** - This project demonstrates how to select data from a table using the SELECT statement.
+The [`queries`](./Queries/) folder contains several SQL files that demonstrate how to perform basic SQL operations such as selecting, filtering, sorting, inserting, updating, and deleting data from a table. Each file contains a brief description of the query it demonstrates.
 
-- **[Filtering Data](/Basic%20SQL/filtering-data.sql)** - This project demonstrates how to filter data using the WHERE clause.
+- [select.sql](./queries/select.sql): Demonstrates how to select data from a table using the SELECT statement.
+- [filter.sql](./queries/filter.sql): Demonstrates how to filter data using the WHERE clause.
+- [sort.sql](./queries/sort.sql): Demonstrates how to sort data using the ORDER BY clause.
+- [insert.sql](./queries/insert.sql): Demonstrates how to insert data into a table using the INSERT statement.
+- [update.sql](./queries/update.sql): Demonstrates how to update data in a table using the UPDATE statement.
+- [delete.sql](./queries/delete.sql): Demonstrates how to delete data from a table using the DELETE statement.
 
-- **[Sorting Data](/Basic%20SQL/sorting-data.sql)** - This project demonstrates how to sort data using the ORDER BY clause.
+## Data
 
-- **[Inserting Data](/Basic%20SQL/inserting-data.sql)** - This project demonstrates how to insert data into a table using the INSERT statement.
+The [`data`](./Data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data.
 
-- **[Updating Data](/Basic%20SQL/updating-data.sql)** - This project demonstrates how to update data in a table using the UPDATE statement.
+## Contributing
 
-- **[Deleting Data](/Basic%20SQL/deleting-data.sql)** - This project demonstrates how to delete data from a table using the DELETE statement.
-
-## What is SQL?
-
-SQL (Structured Query Language) is a standard programming language used to manage relational databases. It is used to create, modify, and delete data from tables, as well as retrieve data for analysis and reporting.
-
-## How to Use
-
-To use these projects, simply download the SQL script file and execute it in your preferred SQL client or environment. Each project includes comments explaining what the code does and how it works.
-
-## Why SQL is Important
-
-SQL is a powerful tool for managing data and is widely used in industries such as finance, healthcare, and technology. By learning SQL, you can gain valuable skills for data analysis, reporting, and database management.
-
-## Contact
-
-If you have any questions or feedback about these projects, feel free to contact me at **contact@venusrosario.com**.
-
+Contributions are welcome! If you have any suggestions or improvements for the sample SQL queries or data, feel free to create a pull request or open an issue.
