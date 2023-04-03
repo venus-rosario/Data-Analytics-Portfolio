@@ -103,7 +103,7 @@ This table contains information about the shipping of orders. The columns in thi
 | ship_date     | TEXT      | Shipping date in YYYY-MM-DD format         |
 | status        | TEXT      | Shipping status                            |
 
-### Returns
+### Returns 
 
 This table contains information about the returns of orders. The columns in this table are:
 
