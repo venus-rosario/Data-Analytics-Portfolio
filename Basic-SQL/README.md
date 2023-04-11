@@ -15,7 +15,7 @@ The [`Queries`](./Queries/) folder contains several SQL files that demonstrate h
 
 ## Data
 
-The [`Data`](./data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
+The [`Data`](./Data/) folder contains sample data in CSV format that can be imported into a SQL database. This data was generated for the purpose of showcasing SQL skills and is not based on any real-world data. The database contains eight tables:
 
 - [`Customers.csv`](./Data/Customers.csv): contains a list of customers
 - [`Products.csv`](./Data/Products.csv): contains a list of products
